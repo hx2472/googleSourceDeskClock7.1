@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/selection_layout.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/selection_layout.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/alarm_time_collapsed.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/alarm_time_collapsed.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/digital_appwidget.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/digital_appwidget.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/cities_activity.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/cities_activity.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/timer_item.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/timer_item.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/stopwatch_notification_icon.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/stopwatch_notification_icon.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/alarm_time_expanded.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/alarm_time_expanded.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/city_list_header.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/city_list_header.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/alarm_row.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/alarm_row.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/settings.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/world_clock_list_item.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/world_clock_list_item.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/city_list_item.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/city_list_item.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/world_clock_label.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/world_clock_label.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/world_clock_remote_list_item.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/world_clock_remote_list_item.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/world_clock_item.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/world_clock_item.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/lap_view.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/lap_view.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/alarm_empty_view.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/alarm_empty_view.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/stopwatch_notif_expanded.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/stopwatch_notif_expanded.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/main_clock_frame.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/main_clock_frame.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/alarm_time_summary.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/alarm_time_summary.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/alarm_activity.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/alarm_activity.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/three_keys_view.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/three_keys_view.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/preemptive_dismiss.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/preemptive_dismiss.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/timer_fragment.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/timer_fragment.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/blank_footer_view.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/blank_footer_view.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/snooze_length_picker.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/snooze_length_picker.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/desk_clock.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/desk_clock.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/day_button.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/day_button.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/time_setup_view.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/time_setup_view.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/timer_h_mm_ss_view.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/timer_h_mm_ss_view.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/stopwatch_fragment.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/stopwatch_fragment.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/screensaver_settings.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/screensaver_settings.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/crescendo_length_picker.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/crescendo_length_picker.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/expired_timers_activity.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/expired_timers_activity.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/alarm_clock.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/alarm_clock.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/clock_fragment.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/clock_fragment.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/desk_clock_saver.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/desk_clock_saver.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/timer_setup_buttons.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/timer_setup_buttons.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/stopwatch_notif_collapsed.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/stopwatch_notif_collapsed.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/digital_widget_time.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/digital_widget_time.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/layout/analog_appwidget.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/layout/analog_appwidget.xml"
+    }
+]

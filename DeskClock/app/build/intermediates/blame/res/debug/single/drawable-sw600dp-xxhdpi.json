@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw600dp-xxhdpi/bg_gray_circle.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw600dp-xxhdpi/bg_gray_circle.png"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw600dp-xxhdpi/ic_noalarms.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw600dp-xxhdpi/ic_noalarms.png"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw600dp-xxhdpi/ic_swipe_circle_bottom.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw600dp-xxhdpi/ic_swipe_circle_bottom.png"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw600dp-xxhdpi/ic_label_pressed.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw600dp-xxhdpi/ic_label_pressed.png"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw600dp-xxhdpi/ic_backspace_disabled.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw600dp-xxhdpi/ic_backspace_disabled.png"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw600dp-xxhdpi/ic_fab_alarm.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw600dp-xxhdpi/ic_fab_alarm.png"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw600dp-xxhdpi/ic_swipe_circle_light.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw600dp-xxhdpi/ic_swipe_circle_light.png"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw600dp-xxhdpi/ic_swipe_circle_top.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw600dp-xxhdpi/ic_swipe_circle_top.png"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw600dp-xxhdpi/ic_backspace_normal.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw600dp-xxhdpi/ic_backspace_normal.png"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw600dp-xxhdpi/ic_swipe_circle_dark.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw600dp-xxhdpi/ic_swipe_circle_dark.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/xml/settings.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/xml/settings.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/xml/dream_settings.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/xml/dream_settings.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/xml/dream_info.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/xml/dream_info.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/xml/backup_scheme.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/xml/backup_scheme.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/xml/analog_appwidget.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/xml/analog_appwidget.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/xml/digital_appwidget.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/xml/digital_appwidget.xml"
+    }
+]

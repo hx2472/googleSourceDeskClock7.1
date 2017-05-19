@@ -1,0 +1,4398 @@
+[
+    {
+        "outputFile": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 11,
+                    "endColumn": 17,
+                    "endOffset": 1243
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 2,
+                        "startOffset": 5571,
+                        "endLine": 78,
+                        "endColumn": 17,
+                        "endOffset": 6757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1248,
+                    "endLine": 20,
+                    "endColumn": 17,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 2,
+                        "startOffset": 9394,
+                        "endLine": 124,
+                        "endColumn": 17,
+                        "endOffset": 9857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endLine": 322,
+                    "endColumn": 17,
+                    "endOffset": 28392
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/array.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 798,
+                        "endLine": 320,
+                        "endColumn": 17,
+                        "endOffset": 28710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 28397,
+                    "endLine": 326,
+                    "endColumn": 17,
+                    "endOffset": 28564
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 2,
+                        "startOffset": 19148,
+                        "endLine": 239,
+                        "endColumn": 17,
+                        "endOffset": 19315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 28569,
+                    "endLine": 338,
+                    "endColumn": 17,
+                    "endOffset": 29352
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 2,
+                        "startOffset": 17935,
+                        "endLine": 230,
+                        "endColumn": 17,
+                        "endOffset": 18718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 29357,
+                    "endLine": 425,
+                    "endColumn": 17,
+                    "endOffset": 34273
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 2,
+                        "startOffset": 20538,
+                        "endLine": 338,
+                        "endColumn": 17,
+                        "endOffset": 25454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 34278,
+                    "endLine": 430,
+                    "endColumn": 17,
+                    "endOffset": 34520
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 2,
+                        "startOffset": 11299,
+                        "endLine": 146,
+                        "endColumn": 17,
+                        "endOffset": 11541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 34525,
+                    "endLine": 435,
+                    "endColumn": 17,
+                    "endOffset": 34744
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 2,
+                        "startOffset": 9957,
+                        "endLine": 130,
+                        "endColumn": 17,
+                        "endOffset": 10176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 34749,
+                    "endLine": 439,
+                    "endColumn": 14,
+                    "endOffset": 34988
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 15570,
+                        "endLine": 193,
+                        "endColumn": 14,
+                        "endOffset": 15817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 34993,
+                    "endLine": 443,
+                    "endColumn": 14,
+                    "endOffset": 35238
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 15822,
+                        "endLine": 197,
+                        "endColumn": 14,
+                        "endOffset": 16075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 35243,
+                    "endLine": 447,
+                    "endColumn": 14,
+                    "endOffset": 35490
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 16080,
+                        "endLine": 201,
+                        "endColumn": 14,
+                        "endOffset": 16335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 35495,
+                    "endLine": 451,
+                    "endColumn": 14,
+                    "endOffset": 35741
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3641,
+                        "endLine": 53,
+                        "endColumn": 14,
+                        "endOffset": 3895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 35746,
+                    "endLine": 455,
+                    "endColumn": 14,
+                    "endOffset": 36043
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4083,
+                        "endLine": 59,
+                        "endColumn": 14,
+                        "endOffset": 4388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 36048,
+                    "endLine": 459,
+                    "endColumn": 14,
+                    "endOffset": 36287
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 366,
+                        "startColumn": 4,
+                        "startOffset": 28358,
+                        "endLine": 369,
+                        "endColumn": 14,
+                        "endOffset": 28597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 36292,
+                    "endLine": 463,
+                    "endColumn": 14,
+                    "endOffset": 36557
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 9025,
+                        "endLine": 114,
+                        "endColumn": 14,
+                        "endOffset": 9298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 36562,
+                    "endLine": 467,
+                    "endColumn": 14,
+                    "endOffset": 36787
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 6762,
+                        "endLine": 82,
+                        "endColumn": 14,
+                        "endOffset": 6995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 36792,
+                    "endLine": 471,
+                    "endColumn": 14,
+                    "endOffset": 37018
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 7000,
+                        "endLine": 86,
+                        "endColumn": 14,
+                        "endOffset": 7234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 472,
+                    "startColumn": 4,
+                    "startOffset": 37023,
+                    "endLine": 475,
+                    "endColumn": 14,
+                    "endOffset": 37255
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 7239,
+                        "endLine": 90,
+                        "endColumn": 14,
+                        "endOffset": 7479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 37260,
+                    "endLine": 479,
+                    "endColumn": 14,
+                    "endOffset": 37500
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 8065,
+                        "endLine": 101,
+                        "endColumn": 14,
+                        "endOffset": 8313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 37505,
+                    "endLine": 483,
+                    "endColumn": 14,
+                    "endOffset": 37688
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 8318,
+                        "endLine": 105,
+                        "endColumn": 14,
+                        "endOffset": 8501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 484,
+                    "startColumn": 4,
+                    "startOffset": 37693,
+                    "endColumn": 86,
+                    "endOffset": 37775
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 963,
+                        "endColumn": 86,
+                        "endOffset": 1045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 485,
+                    "startColumn": 4,
+                    "startOffset": 37780,
+                    "endColumn": 103,
+                    "endOffset": 37879
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3188,
+                        "endColumn": 103,
+                        "endOffset": 3287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 37884,
+                    "endColumn": 92,
+                    "endOffset": 37972
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3095,
+                        "endColumn": 92,
+                        "endOffset": 3183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 487,
+                    "startColumn": 4,
+                    "startOffset": 37977,
+                    "endColumn": 94,
+                    "endOffset": 38067
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3000,
+                        "endColumn": 94,
+                        "endOffset": 3090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 38072,
+                    "endColumn": 91,
+                    "endOffset": 38159
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3900,
+                        "endColumn": 91,
+                        "endOffset": 3987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 489,
+                    "startColumn": 4,
+                    "startOffset": 38164,
+                    "endColumn": 106,
+                    "endOffset": 38266
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4530,
+                        "endColumn": 106,
+                        "endOffset": 4632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 38271,
+                    "endColumn": 90,
+                    "endOffset": 38357
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3992,
+                        "endColumn": 90,
+                        "endOffset": 4078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 38362,
+                    "endColumn": 132,
+                    "endOffset": 38490
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4393,
+                        "endColumn": 136,
+                        "endOffset": 4525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 492,
+                    "startColumn": 4,
+                    "startOffset": 38495,
+                    "endColumn": 94,
+                    "endOffset": 38585
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3546,
+                        "endColumn": 94,
+                        "endOffset": 3636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 493,
+                    "startColumn": 4,
+                    "startOffset": 38590,
+                    "endColumn": 88,
+                    "endOffset": 38674
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2911,
+                        "endColumn": 88,
+                        "endOffset": 2995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 38679,
+                    "endColumn": 91,
+                    "endOffset": 38766
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 11666,
+                        "endColumn": 91,
+                        "endOffset": 11753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 495,
+                    "startColumn": 4,
+                    "startOffset": 38771,
+                    "endColumn": 227,
+                    "endOffset": 38994
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 402,
+                        "startColumn": 4,
+                        "startOffset": 32239,
+                        "endColumn": 231,
+                        "endOffset": 32466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 496,
+                    "startColumn": 4,
+                    "startOffset": 38999,
+                    "endColumn": 91,
+                    "endOffset": 39086
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 360,
+                        "startColumn": 4,
+                        "startOffset": 27742,
+                        "endColumn": 91,
+                        "endOffset": 27829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 497,
+                    "startColumn": 4,
+                    "startOffset": 39091,
+                    "endColumn": 134,
+                    "endOffset": 39221
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 387,
+                        "startColumn": 4,
+                        "startOffset": 30563,
+                        "endColumn": 138,
+                        "endOffset": 30697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 498,
+                    "startColumn": 4,
+                    "startOffset": 39226,
+                    "endColumn": 135,
+                    "endOffset": 39357
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 388,
+                        "startColumn": 4,
+                        "startOffset": 30702,
+                        "endColumn": 139,
+                        "endOffset": 30837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 39362,
+                    "endColumn": 152,
+                    "endOffset": 39510
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 406,
+                        "startColumn": 4,
+                        "startOffset": 32786,
+                        "endColumn": 156,
+                        "endOffset": 32938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 500,
+                    "startColumn": 4,
+                    "startOffset": 39515,
+                    "endColumn": 158,
+                    "endOffset": 39669
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 12532,
+                        "endColumn": 158,
+                        "endOffset": 12686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 501,
+                    "startColumn": 4,
+                    "startOffset": 39674,
+                    "endColumn": 84,
+                    "endOffset": 39754
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 84,
+                        "endOffset": 958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 502,
+                    "startColumn": 4,
+                    "startOffset": 39759,
+                    "endColumn": 146,
+                    "endOffset": 39901
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3391,
+                        "endColumn": 154,
+                        "endOffset": 3541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 503,
+                    "startColumn": 4,
+                    "startOffset": 39906,
+                    "endColumn": 98,
+                    "endOffset": 40000
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3292,
+                        "endColumn": 98,
+                        "endOffset": 3386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 504,
+                    "startColumn": 4,
+                    "startOffset": 40005,
+                    "endColumn": 126,
+                    "endOffset": 40127
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 10797,
+                        "endColumn": 130,
+                        "endOffset": 10923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 505,
+                    "startColumn": 4,
+                    "startOffset": 40132,
+                    "endColumn": 161,
+                    "endOffset": 40289
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 10928,
+                        "endColumn": 165,
+                        "endOffset": 11089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 506,
+                    "startColumn": 4,
+                    "startOffset": 40294,
+                    "endColumn": 112,
+                    "endOffset": 40402
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 10684,
+                        "endColumn": 112,
+                        "endOffset": 10792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 507,
+                    "startColumn": 4,
+                    "startOffset": 40407,
+                    "endColumn": 77,
+                    "endOffset": 40480
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2243,
+                        "endColumn": 77,
+                        "endOffset": 2316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 508,
+                    "startColumn": 4,
+                    "startOffset": 40485,
+                    "endColumn": 82,
+                    "endOffset": 40563
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 339,
+                        "startColumn": 4,
+                        "startOffset": 25459,
+                        "endColumn": 82,
+                        "endOffset": 25537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 509,
+                    "startColumn": 4,
+                    "startOffset": 40568,
+                    "endColumn": 76,
+                    "endOffset": 40640
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2834,
+                        "endColumn": 76,
+                        "endOffset": 2906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 510,
+                    "startColumn": 4,
+                    "startOffset": 40645,
+                    "endColumn": 77,
+                    "endOffset": 40718
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2756,
+                        "endColumn": 77,
+                        "endOffset": 2829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 511,
+                    "startColumn": 4,
+                    "startOffset": 40723,
+                    "endColumn": 75,
+                    "endOffset": 40794
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 359,
+                        "startColumn": 4,
+                        "startOffset": 27666,
+                        "endColumn": 75,
+                        "endOffset": 27737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 512,
+                    "startColumn": 4,
+                    "startOffset": 40799,
+                    "endColumn": 81,
+                    "endOffset": 40876
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2161,
+                        "endColumn": 81,
+                        "endOffset": 2238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 513,
+                    "startColumn": 4,
+                    "startOffset": 40881,
+                    "endColumn": 100,
+                    "endOffset": 40977
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 10399,
+                        "endColumn": 100,
+                        "endOffset": 10495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 514,
+                    "startColumn": 4,
+                    "startOffset": 40982,
+                    "endColumn": 114,
+                    "endOffset": 41092
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 364,
+                        "startColumn": 4,
+                        "startOffset": 28155,
+                        "endColumn": 118,
+                        "endOffset": 28269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 515,
+                    "startColumn": 4,
+                    "startOffset": 41097,
+                    "endColumn": 81,
+                    "endOffset": 41174
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2321,
+                        "endColumn": 81,
+                        "endOffset": 2398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 516,
+                    "startColumn": 4,
+                    "startOffset": 41179,
+                    "endColumn": 124,
+                    "endOffset": 41299
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 351,
+                        "startColumn": 4,
+                        "startOffset": 26788,
+                        "endColumn": 124,
+                        "endOffset": 26908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 517,
+                    "startColumn": 4,
+                    "startOffset": 41304,
+                    "endColumn": 88,
+                    "endOffset": 41388
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 7727,
+                        "endColumn": 88,
+                        "endOffset": 7811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 518,
+                    "startColumn": 4,
+                    "startOffset": 41393,
+                    "endColumn": 73,
+                    "endOffset": 41462
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 73,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 519,
+                    "startColumn": 4,
+                    "startOffset": 41467,
+                    "endColumn": 92,
+                    "endOffset": 41555
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 9303,
+                        "endColumn": 92,
+                        "endOffset": 9391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 520,
+                    "startColumn": 4,
+                    "startOffset": 41560,
+                    "endColumn": 98,
+                    "endOffset": 41654
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 8926,
+                        "endColumn": 98,
+                        "endOffset": 9020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 521,
+                    "startColumn": 4,
+                    "startOffset": 41659,
+                    "endColumn": 109,
+                    "endOffset": 41764
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 4,
+                        "startOffset": 19320,
+                        "endColumn": 109,
+                        "endOffset": 19425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 522,
+                    "startColumn": 4,
+                    "startOffset": 41769,
+                    "endColumn": 170,
+                    "endOffset": 41935
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 19430,
+                        "endColumn": 170,
+                        "endOffset": 19596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 523,
+                    "startColumn": 4,
+                    "startOffset": 41940,
+                    "endColumn": 90,
+                    "endOffset": 42026
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 13347,
+                        "endColumn": 90,
+                        "endOffset": 13433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 524,
+                    "startColumn": 4,
+                    "startOffset": 42031,
+                    "endColumn": 83,
+                    "endOffset": 42110
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 13438,
+                        "endColumn": 83,
+                        "endOffset": 13517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 525,
+                    "startColumn": 4,
+                    "startOffset": 42115,
+                    "endColumn": 96,
+                    "endOffset": 42207
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 13522,
+                        "endColumn": 96,
+                        "endOffset": 13614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 526,
+                    "startColumn": 4,
+                    "startOffset": 42212,
+                    "endColumn": 91,
+                    "endOffset": 42299
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 4,
+                        "startOffset": 18798,
+                        "endColumn": 91,
+                        "endOffset": 18885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 527,
+                    "startColumn": 4,
+                    "startOffset": 42304,
+                    "endColumn": 115,
+                    "endOffset": 42415
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 400,
+                        "startColumn": 4,
+                        "startOffset": 31997,
+                        "endColumn": 119,
+                        "endOffset": 32112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 528,
+                    "startColumn": 4,
+                    "startOffset": 42420,
+                    "endColumn": 114,
+                    "endOffset": 42530
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 4,
+                        "startOffset": 20295,
+                        "endColumn": 118,
+                        "endOffset": 20409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 529,
+                    "startColumn": 4,
+                    "startOffset": 42535,
+                    "endColumn": 109,
+                    "endOffset": 42640
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 371,
+                        "startColumn": 4,
+                        "startOffset": 28713,
+                        "endColumn": 109,
+                        "endOffset": 28818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 530,
+                    "startColumn": 4,
+                    "startOffset": 42645,
+                    "endColumn": 117,
+                    "endOffset": 42758
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 401,
+                        "startColumn": 4,
+                        "startOffset": 32117,
+                        "endColumn": 121,
+                        "endOffset": 32234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 531,
+                    "startColumn": 4,
+                    "startOffset": 42763,
+                    "endColumn": 121,
+                    "endOffset": 42880
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 20414,
+                        "endColumn": 125,
+                        "endOffset": 20535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 532,
+                    "startColumn": 4,
+                    "startOffset": 42885,
+                    "endColumn": 93,
+                    "endOffset": 42974
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 7633,
+                        "endColumn": 93,
+                        "endOffset": 7722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 533,
+                    "startColumn": 4,
+                    "startOffset": 42979,
+                    "endColumn": 79,
+                    "endOffset": 43054
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 4,
+                        "startOffset": 18890,
+                        "endColumn": 79,
+                        "endOffset": 18965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 534,
+                    "startColumn": 4,
+                    "startOffset": 43059,
+                    "endColumn": 76,
+                    "endOffset": 43131
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 4,
+                        "startOffset": 18970,
+                        "endColumn": 76,
+                        "endOffset": 19042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 535,
+                    "startColumn": 4,
+                    "startOffset": 43136,
+                    "endColumn": 92,
+                    "endOffset": 43224
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 358,
+                        "startColumn": 4,
+                        "startOffset": 27573,
+                        "endColumn": 92,
+                        "endOffset": 27661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 536,
+                    "startColumn": 4,
+                    "startOffset": 43229,
+                    "endColumn": 91,
+                    "endOffset": 43316
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 12946,
+                        "endColumn": 91,
+                        "endOffset": 13033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 537,
+                    "startColumn": 4,
+                    "startOffset": 43321,
+                    "endColumn": 119,
+                    "endOffset": 43436
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 8709,
+                        "endColumn": 123,
+                        "endOffset": 8828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 538,
+                    "startColumn": 4,
+                    "startOffset": 43441,
+                    "endColumn": 114,
+                    "endOffset": 43551
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 8506,
+                        "endColumn": 114,
+                        "endOffset": 8616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 539,
+                    "startColumn": 4,
+                    "startOffset": 43556,
+                    "endColumn": 92,
+                    "endOffset": 43644
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 8833,
+                        "endColumn": 92,
+                        "endOffset": 8921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 540,
+                    "startColumn": 4,
+                    "startOffset": 43649,
+                    "endColumn": 70,
+                    "endOffset": 43715
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 7562,
+                        "endColumn": 70,
+                        "endOffset": 7628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 541,
+                    "startColumn": 4,
+                    "startOffset": 43720,
+                    "endColumn": 77,
+                    "endOffset": 43793
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1997,
+                        "endColumn": 77,
+                        "endOffset": 2070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 542,
+                    "startColumn": 4,
+                    "startOffset": 43798,
+                    "endColumn": 119,
+                    "endOffset": 43913
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 11546,
+                        "endColumn": 119,
+                        "endOffset": 11661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 543,
+                    "startColumn": 4,
+                    "startOffset": 43918,
+                    "endColumn": 110,
+                    "endOffset": 44024
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2403,
+                        "endColumn": 110,
+                        "endOffset": 2509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 544,
+                    "startColumn": 4,
+                    "startOffset": 44029,
+                    "endColumn": 73,
+                    "endOffset": 44098
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 10325,
+                        "endColumn": 73,
+                        "endOffset": 10394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 545,
+                    "startColumn": 4,
+                    "startOffset": 44103,
+                    "endColumn": 89,
+                    "endOffset": 44188
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 89,
+                        "endOffset": 1315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 546,
+                    "startColumn": 4,
+                    "startOffset": 44193,
+                    "endColumn": 105,
+                    "endOffset": 44294
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1494,
+                        "endColumn": 105,
+                        "endOffset": 1595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 547,
+                    "startColumn": 4,
+                    "startOffset": 44299,
+                    "endColumn": 83,
+                    "endOffset": 44378
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 365,
+                        "startColumn": 4,
+                        "startOffset": 28274,
+                        "endColumn": 83,
+                        "endOffset": 28353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 548,
+                    "startColumn": 4,
+                    "startOffset": 44383,
+                    "endColumn": 144,
+                    "endOffset": 44523
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 345,
+                        "startColumn": 4,
+                        "startOffset": 26153,
+                        "endColumn": 144,
+                        "endOffset": 26293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 549,
+                    "startColumn": 4,
+                    "startOffset": 44528,
+                    "endColumn": 120,
+                    "endOffset": 44644
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 344,
+                        "startColumn": 4,
+                        "startOffset": 26032,
+                        "endColumn": 120,
+                        "endOffset": 26148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 550,
+                    "startColumn": 4,
+                    "startOffset": 44649,
+                    "endColumn": 119,
+                    "endOffset": 44764
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 343,
+                        "startColumn": 4,
+                        "startOffset": 25912,
+                        "endColumn": 119,
+                        "endOffset": 26027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 551,
+                    "startColumn": 4,
+                    "startOffset": 44769,
+                    "endColumn": 105,
+                    "endOffset": 44870
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 12122,
+                        "endColumn": 105,
+                        "endOffset": 12223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 552,
+                    "startColumn": 4,
+                    "startOffset": 44875,
+                    "endColumn": 90,
+                    "endOffset": 44961
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 372,
+                        "startColumn": 4,
+                        "startOffset": 28823,
+                        "endColumn": 90,
+                        "endOffset": 28909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 553,
+                    "startColumn": 4,
+                    "startOffset": 44966,
+                    "endColumn": 87,
+                    "endOffset": 45049
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1406,
+                        "endColumn": 87,
+                        "endOffset": 1489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 554,
+                    "startColumn": 4,
+                    "startOffset": 45054,
+                    "endColumn": 91,
+                    "endOffset": 45141
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 403,
+                        "startColumn": 4,
+                        "startOffset": 32471,
+                        "endColumn": 91,
+                        "endOffset": 32558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 555,
+                    "startColumn": 4,
+                    "startOffset": 45146,
+                    "endColumn": 71,
+                    "endOffset": 45213
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 10181,
+                        "endColumn": 71,
+                        "endOffset": 10248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 556,
+                    "startColumn": 4,
+                    "startOffset": 45218,
+                    "endColumn": 85,
+                    "endOffset": 45299
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1320,
+                        "endColumn": 85,
+                        "endOffset": 1401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 557,
+                    "startColumn": 4,
+                    "startOffset": 45304,
+                    "endColumn": 77,
+                    "endOffset": 45377
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 7484,
+                        "endColumn": 77,
+                        "endOffset": 7557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 558,
+                    "startColumn": 4,
+                    "startOffset": 45382,
+                    "endColumn": 90,
+                    "endOffset": 45468
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 357,
+                        "startColumn": 4,
+                        "startOffset": 27482,
+                        "endColumn": 90,
+                        "endOffset": 27568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 559,
+                    "startColumn": 4,
+                    "startOffset": 45473,
+                    "endColumn": 92,
+                    "endOffset": 45561
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 11758,
+                        "endColumn": 92,
+                        "endOffset": 11846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 560,
+                    "startColumn": 4,
+                    "startOffset": 45566,
+                    "endColumn": 69,
+                    "endOffset": 45631
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 7816,
+                        "endColumn": 69,
+                        "endOffset": 7881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 561,
+                    "startColumn": 4,
+                    "startOffset": 45636,
+                    "endColumn": 85,
+                    "endOffset": 45717
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 85,
+                        "endOffset": 1769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 562,
+                    "startColumn": 4,
+                    "startOffset": 45722,
+                    "endColumn": 90,
+                    "endOffset": 45808
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 12031,
+                        "endColumn": 90,
+                        "endOffset": 12117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 563,
+                    "startColumn": 4,
+                    "startOffset": 45813,
+                    "endColumn": 74,
+                    "endOffset": 45883
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 18723,
+                        "endColumn": 74,
+                        "endOffset": 18793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 564,
+                    "startColumn": 4,
+                    "startOffset": 45888,
+                    "endColumn": 93,
+                    "endOffset": 45977
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 4,
+                        "startOffset": 19601,
+                        "endColumn": 93,
+                        "endOffset": 19690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 565,
+                    "startColumn": 4,
+                    "startOffset": 45982,
+                    "endColumn": 98,
+                    "endOffset": 46076
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 4,
+                        "startOffset": 19695,
+                        "endColumn": 98,
+                        "endOffset": 19789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 566,
+                    "startColumn": 4,
+                    "startOffset": 46081,
+                    "endColumn": 71,
+                    "endOffset": 46148
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 14675,
+                        "endColumn": 71,
+                        "endOffset": 14742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 567,
+                    "startColumn": 4,
+                    "startOffset": 46153,
+                    "endColumn": 90,
+                    "endOffset": 46239
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 14894,
+                        "endColumn": 90,
+                        "endOffset": 14980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 568,
+                    "startColumn": 4,
+                    "startOffset": 46244,
+                    "endColumn": 197,
+                    "endOffset": 46437
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 376,
+                        "startColumn": 4,
+                        "startOffset": 29197,
+                        "endColumn": 209,
+                        "endOffset": 29402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 569,
+                    "startColumn": 4,
+                    "startOffset": 46442,
+                    "endColumn": 107,
+                    "endOffset": 46545
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 396,
+                        "startColumn": 4,
+                        "startOffset": 31536,
+                        "endColumn": 107,
+                        "endOffset": 31639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 570,
+                    "startColumn": 4,
+                    "startOffset": 46550,
+                    "endColumn": 68,
+                    "endOffset": 46614
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1774,
+                        "endColumn": 68,
+                        "endOffset": 1838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 571,
+                    "startColumn": 4,
+                    "startOffset": 46619,
+                    "endColumn": 81,
+                    "endOffset": 46696
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 12228,
+                        "endColumn": 81,
+                        "endOffset": 12305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 572,
+                    "startColumn": 4,
+                    "startOffset": 46701,
+                    "endColumn": 98,
+                    "endOffset": 46795
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 12691,
+                        "endColumn": 98,
+                        "endOffset": 12785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 573,
+                    "startColumn": 4,
+                    "startOffset": 46800,
+                    "endColumn": 74,
+                    "endOffset": 46870
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 13038,
+                        "endColumn": 74,
+                        "endOffset": 13108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 574,
+                    "startColumn": 4,
+                    "startOffset": 46875,
+                    "endColumn": 75,
+                    "endOffset": 46946
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 13188,
+                        "endColumn": 75,
+                        "endOffset": 13259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 575,
+                    "startColumn": 4,
+                    "startOffset": 46951,
+                    "endColumn": 88,
+                    "endOffset": 47035
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endColumn": 88,
+                        "endOffset": 1134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 576,
+                    "startColumn": 4,
+                    "startOffset": 47040,
+                    "endColumn": 90,
+                    "endOffset": 47126
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1139,
+                        "endColumn": 90,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 577,
+                    "startColumn": 4,
+                    "startOffset": 47131,
+                    "endColumn": 79,
+                    "endOffset": 47206
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 13708,
+                        "endColumn": 79,
+                        "endOffset": 13783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 578,
+                    "startColumn": 4,
+                    "startOffset": 47211,
+                    "endColumn": 89,
+                    "endOffset": 47296
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 13788,
+                        "endColumn": 89,
+                        "endOffset": 13873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 579,
+                    "startColumn": 4,
+                    "startOffset": 47301,
+                    "endColumn": 88,
+                    "endOffset": 47385
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 13619,
+                        "endColumn": 88,
+                        "endOffset": 13703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 580,
+                    "startColumn": 4,
+                    "startOffset": 47390,
+                    "endColumn": 105,
+                    "endOffset": 47491
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 13878,
+                        "endColumn": 105,
+                        "endOffset": 13979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 581,
+                    "startColumn": 4,
+                    "startOffset": 47496,
+                    "endColumn": 103,
+                    "endOffset": 47595
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 13984,
+                        "endColumn": 103,
+                        "endOffset": 14083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 582,
+                    "startColumn": 4,
+                    "startOffset": 47600,
+                    "endColumn": 82,
+                    "endOffset": 47678
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 13264,
+                        "endColumn": 82,
+                        "endOffset": 13342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 583,
+                    "startColumn": 4,
+                    "startOffset": 47683,
+                    "endColumn": 74,
+                    "endOffset": 47753
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 13113,
+                        "endColumn": 74,
+                        "endOffset": 13183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 584,
+                    "startColumn": 4,
+                    "startOffset": 47758,
+                    "endColumn": 73,
+                    "endOffset": 47827
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 14747,
+                        "endColumn": 73,
+                        "endOffset": 14816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 585,
+                    "startColumn": 4,
+                    "startOffset": 47832,
+                    "endColumn": 93,
+                    "endOffset": 47921
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 14985,
+                        "endColumn": 93,
+                        "endOffset": 15074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 586,
+                    "startColumn": 4,
+                    "startOffset": 47926,
+                    "endColumn": 126,
+                    "endOffset": 48048
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4637,
+                        "endColumn": 126,
+                        "endOffset": 4759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 587,
+                    "startColumn": 4,
+                    "startOffset": 48053,
+                    "endColumn": 89,
+                    "endOffset": 48138
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 11851,
+                        "endColumn": 89,
+                        "endOffset": 11936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 588,
+                    "startColumn": 4,
+                    "startOffset": 48143,
+                    "endColumn": 133,
+                    "endOffset": 48272
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 363,
+                        "startColumn": 4,
+                        "startOffset": 28017,
+                        "endColumn": 137,
+                        "endOffset": 28150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 589,
+                    "startColumn": 4,
+                    "startOffset": 48277,
+                    "endColumn": 130,
+                    "endOffset": 48403
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 353,
+                        "startColumn": 4,
+                        "startOffset": 27030,
+                        "endColumn": 134,
+                        "endOffset": 27160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 590,
+                    "startColumn": 4,
+                    "startOffset": 48408,
+                    "endColumn": 130,
+                    "endOffset": 48534
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 356,
+                        "startColumn": 4,
+                        "startOffset": 27351,
+                        "endColumn": 130,
+                        "endOffset": 27477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 591,
+                    "startColumn": 4,
+                    "startOffset": 48539,
+                    "endColumn": 85,
+                    "endOffset": 48620
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 355,
+                        "startColumn": 4,
+                        "startOffset": 27265,
+                        "endColumn": 85,
+                        "endOffset": 27346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 592,
+                    "startColumn": 4,
+                    "startOffset": 48625,
+                    "endColumn": 89,
+                    "endOffset": 48710
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 11941,
+                        "endColumn": 89,
+                        "endOffset": 12026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 593,
+                    "startColumn": 4,
+                    "startOffset": 48715,
+                    "endColumn": 166,
+                    "endOffset": 48877
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 377,
+                        "startColumn": 4,
+                        "startOffset": 29407,
+                        "endColumn": 174,
+                        "endOffset": 29577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 594,
+                    "startColumn": 4,
+                    "startOffset": 48882,
+                    "endColumn": 139,
+                    "endOffset": 49017
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 386,
+                        "startColumn": 4,
+                        "startOffset": 30423,
+                        "endColumn": 139,
+                        "endOffset": 30558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 595,
+                    "startColumn": 4,
+                    "startOffset": 49022,
+                    "endColumn": 84,
+                    "endOffset": 49102
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 373,
+                        "startColumn": 4,
+                        "startOffset": 28914,
+                        "endColumn": 84,
+                        "endOffset": 28994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 596,
+                    "startColumn": 4,
+                    "startOffset": 49107,
+                    "endColumn": 92,
+                    "endOffset": 49195
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 374,
+                        "startColumn": 4,
+                        "startOffset": 28999,
+                        "endColumn": 92,
+                        "endOffset": 29087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 597,
+                    "startColumn": 4,
+                    "startOffset": 49200,
+                    "endColumn": 118,
+                    "endOffset": 49314
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 380,
+                        "startColumn": 4,
+                        "startOffset": 29795,
+                        "endColumn": 118,
+                        "endOffset": 29909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 598,
+                    "startColumn": 4,
+                    "startOffset": 49319,
+                    "endColumn": 98,
+                    "endOffset": 49413
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 397,
+                        "startColumn": 4,
+                        "startOffset": 31644,
+                        "endColumn": 98,
+                        "endOffset": 31738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 599,
+                    "startColumn": 4,
+                    "startOffset": 49418,
+                    "endColumn": 87,
+                    "endOffset": 49501
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 8621,
+                        "endColumn": 87,
+                        "endOffset": 8704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 600,
+                    "startColumn": 4,
+                    "startOffset": 49506,
+                    "endColumn": 102,
+                    "endOffset": 49604
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 405,
+                        "startColumn": 4,
+                        "startOffset": 32683,
+                        "endColumn": 102,
+                        "endOffset": 32781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 601,
+                    "startColumn": 4,
+                    "startOffset": 49609,
+                    "endColumn": 100,
+                    "endOffset": 49705
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 379,
+                        "startColumn": 4,
+                        "startOffset": 29694,
+                        "endColumn": 100,
+                        "endOffset": 29790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 602,
+                    "startColumn": 4,
+                    "startOffset": 49710,
+                    "endColumn": 111,
+                    "endOffset": 49817
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 378,
+                        "startColumn": 4,
+                        "startOffset": 29582,
+                        "endColumn": 111,
+                        "endOffset": 29689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 603,
+                    "startColumn": 4,
+                    "startOffset": 49822,
+                    "endColumn": 105,
+                    "endOffset": 49923
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 389,
+                        "startColumn": 4,
+                        "startOffset": 30842,
+                        "endColumn": 105,
+                        "endOffset": 30943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 604,
+                    "startColumn": 4,
+                    "startOffset": 49928,
+                    "endColumn": 104,
+                    "endOffset": 50028
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 375,
+                        "startColumn": 4,
+                        "startOffset": 29092,
+                        "endColumn": 104,
+                        "endOffset": 29192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 605,
+                    "startColumn": 4,
+                    "startOffset": 50033,
+                    "endColumn": 77,
+                    "endOffset": 50106
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1919,
+                        "endColumn": 77,
+                        "endOffset": 1992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 606,
+                    "startColumn": 4,
+                    "startOffset": 50111,
+                    "endColumn": 75,
+                    "endOffset": 50182
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1843,
+                        "endColumn": 75,
+                        "endOffset": 1914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 607,
+                    "startColumn": 4,
+                    "startOffset": 50187,
+                    "endColumn": 102,
+                    "endOffset": 50285
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 4,
+                        "startOffset": 19047,
+                        "endColumn": 102,
+                        "endOffset": 19145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 608,
+                    "startColumn": 4,
+                    "startOffset": 50290,
+                    "endColumn": 119,
+                    "endOffset": 50405
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 404,
+                        "startColumn": 4,
+                        "startOffset": 32563,
+                        "endColumn": 119,
+                        "endOffset": 32678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 609,
+                    "startColumn": 4,
+                    "startOffset": 50410,
+                    "endColumn": 71,
+                    "endOffset": 50477
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 10253,
+                        "endColumn": 71,
+                        "endOffset": 10320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 610,
+                    "startColumn": 4,
+                    "startOffset": 50482,
+                    "endColumn": 75,
+                    "endOffset": 50553
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2612,
+                        "endColumn": 75,
+                        "endOffset": 2683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 611,
+                    "startColumn": 4,
+                    "startOffset": 50558,
+                    "endColumn": 87,
+                    "endOffset": 50641
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 12310,
+                        "endColumn": 87,
+                        "endOffset": 12393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 612,
+                    "startColumn": 4,
+                    "startOffset": 50646,
+                    "endColumn": 99,
+                    "endOffset": 50741
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 354,
+                        "startColumn": 4,
+                        "startOffset": 27165,
+                        "endColumn": 99,
+                        "endOffset": 27260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 613,
+                    "startColumn": 4,
+                    "startOffset": 50746,
+                    "endColumn": 72,
+                    "endOffset": 50814
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 14821,
+                        "endColumn": 72,
+                        "endOffset": 14889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 614,
+                    "startColumn": 4,
+                    "startOffset": 50819,
+                    "endColumn": 95,
+                    "endOffset": 50910
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 15079,
+                        "endColumn": 95,
+                        "endOffset": 15170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 615,
+                    "startColumn": 4,
+                    "startOffset": 50915,
+                    "endColumn": 100,
+                    "endOffset": 51011
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 14088,
+                        "endColumn": 100,
+                        "endOffset": 14184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 616,
+                    "startColumn": 4,
+                    "startOffset": 51016,
+                    "endColumn": 85,
+                    "endOffset": 51097
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2075,
+                        "endColumn": 85,
+                        "endOffset": 2156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 617,
+                    "startColumn": 4,
+                    "startOffset": 51102,
+                    "endColumn": 78,
+                    "endOffset": 51176
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 7886,
+                        "endColumn": 78,
+                        "endOffset": 7960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 618,
+                    "startColumn": 4,
+                    "startOffset": 51181,
+                    "endColumn": 87,
+                    "endOffset": 51264
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endColumn": 87,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 619,
+                    "startColumn": 4,
+                    "startOffset": 51269,
+                    "endColumn": 91,
+                    "endOffset": 51356
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 10500,
+                        "endColumn": 91,
+                        "endOffset": 10587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 620,
+                    "startColumn": 4,
+                    "startOffset": 51361,
+                    "endColumn": 97,
+                    "endOffset": 51454
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2514,
+                        "endColumn": 97,
+                        "endOffset": 2607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 621,
+                    "startColumn": 4,
+                    "startOffset": 51459,
+                    "endColumn": 65,
+                    "endOffset": 51520
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 361,
+                        "startColumn": 4,
+                        "startOffset": 27834,
+                        "endColumn": 65,
+                        "endOffset": 27895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 622,
+                    "startColumn": 4,
+                    "startOffset": 51525,
+                    "endColumn": 99,
+                    "endOffset": 51620
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 7965,
+                        "endColumn": 99,
+                        "endOffset": 8060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 623,
+                    "startColumn": 4,
+                    "startOffset": 51625,
+                    "endColumn": 109,
+                    "endOffset": 51730
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 381,
+                        "startColumn": 4,
+                        "startOffset": 29914,
+                        "endColumn": 109,
+                        "endOffset": 30019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 624,
+                    "startColumn": 4,
+                    "startOffset": 51735,
+                    "endColumn": 103,
+                    "endOffset": 51834
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 384,
+                        "startColumn": 4,
+                        "startOffset": 30219,
+                        "endColumn": 103,
+                        "endOffset": 30318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 625,
+                    "startColumn": 4,
+                    "startOffset": 51839,
+                    "endColumn": 97,
+                    "endOffset": 51932
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 382,
+                        "startColumn": 4,
+                        "startOffset": 30024,
+                        "endColumn": 97,
+                        "endOffset": 30117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 626,
+                    "startColumn": 4,
+                    "startOffset": 51937,
+                    "endColumn": 96,
+                    "endOffset": 52029
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 383,
+                        "startColumn": 4,
+                        "startOffset": 30122,
+                        "endColumn": 96,
+                        "endOffset": 30214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 627,
+                    "startColumn": 4,
+                    "startOffset": 52034,
+                    "endColumn": 148,
+                    "endOffset": 52178
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 341,
+                        "startColumn": 4,
+                        "startOffset": 25683,
+                        "endColumn": 148,
+                        "endOffset": 25827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 628,
+                    "startColumn": 4,
+                    "startOffset": 52183,
+                    "endColumn": 99,
+                    "endOffset": 52278
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 385,
+                        "startColumn": 4,
+                        "startOffset": 30323,
+                        "endColumn": 99,
+                        "endOffset": 30418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 629,
+                    "startColumn": 4,
+                    "startOffset": 52283,
+                    "endColumn": 75,
+                    "endOffset": 52354
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 14517,
+                        "endColumn": 75,
+                        "endOffset": 14588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 630,
+                    "startColumn": 4,
+                    "startOffset": 52359,
+                    "endColumn": 118,
+                    "endOffset": 52473
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 15447,
+                        "endColumn": 122,
+                        "endOffset": 15565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 631,
+                    "startColumn": 4,
+                    "startOffset": 52478,
+                    "endColumn": 81,
+                    "endOffset": 52555
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 14435,
+                        "endColumn": 81,
+                        "endOffset": 14512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 632,
+                    "startColumn": 4,
+                    "startOffset": 52560,
+                    "endColumn": 81,
+                    "endOffset": 52637
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 14271,
+                        "endColumn": 81,
+                        "endOffset": 14348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 633,
+                    "startColumn": 4,
+                    "startOffset": 52642,
+                    "endColumn": 81,
+                    "endOffset": 52719
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 14189,
+                        "endColumn": 81,
+                        "endOffset": 14266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 634,
+                    "startColumn": 4,
+                    "startOffset": 52724,
+                    "endColumn": 81,
+                    "endOffset": 52801
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 14593,
+                        "endColumn": 81,
+                        "endOffset": 14670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 635,
+                    "startColumn": 4,
+                    "startOffset": 52806,
+                    "endColumn": 84,
+                    "endOffset": 52886
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 15362,
+                        "endColumn": 84,
+                        "endOffset": 15442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 636,
+                    "startColumn": 4,
+                    "startOffset": 52891,
+                    "endColumn": 117,
+                    "endOffset": 53004
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 15240,
+                        "endColumn": 121,
+                        "endOffset": 15357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 637,
+                    "startColumn": 4,
+                    "startOffset": 53009,
+                    "endColumn": 81,
+                    "endOffset": 53086
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 14353,
+                        "endColumn": 81,
+                        "endOffset": 14430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 638,
+                    "startColumn": 4,
+                    "startOffset": 53091,
+                    "endColumn": 79,
+                    "endOffset": 53166
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 342,
+                        "startColumn": 4,
+                        "startOffset": 25832,
+                        "endColumn": 79,
+                        "endOffset": 25907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 639,
+                    "startColumn": 4,
+                    "startOffset": 53171,
+                    "endColumn": 113,
+                    "endOffset": 53280
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 399,
+                        "startColumn": 4,
+                        "startOffset": 31883,
+                        "endColumn": 113,
+                        "endOffset": 31992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 640,
+                    "startColumn": 4,
+                    "startOffset": 53285,
+                    "endColumn": 139,
+                    "endOffset": 53420
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 398,
+                        "startColumn": 4,
+                        "startOffset": 31743,
+                        "endColumn": 139,
+                        "endOffset": 31878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 641,
+                    "startColumn": 4,
+                    "startOffset": 53425,
+                    "endColumn": 67,
+                    "endOffset": 53488
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2688,
+                        "endColumn": 67,
+                        "endOffset": 2751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 642,
+                    "startColumn": 4,
+                    "startOffset": 53493,
+                    "endColumn": 82,
+                    "endOffset": 53571
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 4,
+                        "startOffset": 20129,
+                        "endColumn": 82,
+                        "endOffset": 20207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 643,
+                    "startColumn": 4,
+                    "startOffset": 53576,
+                    "endColumn": 82,
+                    "endOffset": 53654
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 4,
+                        "startOffset": 20212,
+                        "endColumn": 82,
+                        "endOffset": 20290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 644,
+                    "startColumn": 4,
+                    "startOffset": 53659,
+                    "endColumn": 83,
+                    "endOffset": 53738
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 4,
+                        "startOffset": 20045,
+                        "endColumn": 83,
+                        "endOffset": 20124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 645,
+                    "startColumn": 4,
+                    "startOffset": 53743,
+                    "endColumn": 87,
+                    "endOffset": 53826
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 4,
+                        "startOffset": 19794,
+                        "endColumn": 87,
+                        "endOffset": 19877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 646,
+                    "startColumn": 4,
+                    "startOffset": 53831,
+                    "endColumn": 75,
+                    "endOffset": 53902
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 19882,
+                        "endColumn": 75,
+                        "endOffset": 19953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 647,
+                    "startColumn": 4,
+                    "startOffset": 53907,
+                    "endColumn": 86,
+                    "endOffset": 53989
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 246,
+                        "startColumn": 4,
+                        "startOffset": 19958,
+                        "endColumn": 86,
+                        "endOffset": 20040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 648,
+                    "startColumn": 4,
+                    "startOffset": 53994,
+                    "endColumn": 91,
+                    "endOffset": 54081
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 16340,
+                        "endColumn": 91,
+                        "endOffset": 16427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 649,
+                    "startColumn": 4,
+                    "startOffset": 54086,
+                    "endColumn": 81,
+                    "endOffset": 54163
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 17171,
+                        "endColumn": 81,
+                        "endOffset": 17248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 650,
+                    "startColumn": 4,
+                    "startOffset": 54168,
+                    "endColumn": 92,
+                    "endOffset": 54256
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 4,
+                        "startOffset": 17253,
+                        "endColumn": 92,
+                        "endOffset": 17341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 651,
+                    "startColumn": 4,
+                    "startOffset": 54261,
+                    "endColumn": 88,
+                    "endOffset": 54345
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 392,
+                        "startColumn": 4,
+                        "startOffset": 31170,
+                        "endColumn": 88,
+                        "endOffset": 31254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 652,
+                    "startColumn": 4,
+                    "startOffset": 54350,
+                    "endColumn": 79,
+                    "endOffset": 54425
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 16512,
+                        "endColumn": 79,
+                        "endOffset": 16587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 653,
+                    "startColumn": 4,
+                    "startOffset": 54430,
+                    "endColumn": 110,
+                    "endOffset": 54536
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 370,
+                        "startColumn": 4,
+                        "startOffset": 28602,
+                        "endColumn": 110,
+                        "endOffset": 28708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 654,
+                    "startColumn": 4,
+                    "startOffset": 54541,
+                    "endColumn": 91,
+                    "endOffset": 54628
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 394,
+                        "startColumn": 4,
+                        "startOffset": 31352,
+                        "endColumn": 91,
+                        "endOffset": 31439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 655,
+                    "startColumn": 4,
+                    "startOffset": 54633,
+                    "endColumn": 132,
+                    "endOffset": 54761
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 16592,
+                        "endColumn": 136,
+                        "endOffset": 16724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 656,
+                    "startColumn": 4,
+                    "startOffset": 54766,
+                    "endColumn": 99,
+                    "endOffset": 54861
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 391,
+                        "startColumn": 4,
+                        "startOffset": 31070,
+                        "endColumn": 99,
+                        "endOffset": 31165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 657,
+                    "startColumn": 4,
+                    "startOffset": 54866,
+                    "endColumn": 135,
+                    "endOffset": 54997
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 17427,
+                        "endColumn": 139,
+                        "endOffset": 17562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 658,
+                    "startColumn": 4,
+                    "startOffset": 55002,
+                    "endColumn": 88,
+                    "endOffset": 55086
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 17567,
+                        "endColumn": 88,
+                        "endOffset": 17651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 659,
+                    "startColumn": 4,
+                    "startOffset": 55091,
+                    "endColumn": 149,
+                    "endOffset": 55236
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4887,
+                        "endColumn": 157,
+                        "endOffset": 5040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 660,
+                    "startColumn": 4,
+                    "startOffset": 55241,
+                    "endColumn": 171,
+                    "endOffset": 55408
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5207,
+                        "endColumn": 179,
+                        "endOffset": 5382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 661,
+                    "startColumn": 4,
+                    "startOffset": 55413,
+                    "endColumn": 122,
+                    "endOffset": 55531
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4764,
+                        "endColumn": 122,
+                        "endOffset": 4882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 662,
+                    "startColumn": 4,
+                    "startOffset": 55536,
+                    "endColumn": 153,
+                    "endOffset": 55685
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5045,
+                        "endColumn": 161,
+                        "endOffset": 5202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 663,
+                    "startColumn": 4,
+                    "startOffset": 55690,
+                    "endColumn": 77,
+                    "endOffset": 55763
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 17762,
+                        "endColumn": 77,
+                        "endOffset": 17835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 664,
+                    "startColumn": 4,
+                    "startOffset": 55768,
+                    "endColumn": 91,
+                    "endOffset": 55855
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 349,
+                        "startColumn": 4,
+                        "startOffset": 26568,
+                        "endColumn": 91,
+                        "endOffset": 26655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 665,
+                    "startColumn": 4,
+                    "startOffset": 55860,
+                    "endColumn": 93,
+                    "endOffset": 55949
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 16824,
+                        "endColumn": 93,
+                        "endOffset": 16913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 666,
+                    "startColumn": 4,
+                    "startOffset": 55954,
+                    "endColumn": 94,
+                    "endOffset": 56044
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 16729,
+                        "endColumn": 94,
+                        "endOffset": 16819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 667,
+                    "startColumn": 4,
+                    "startOffset": 56049,
+                    "endColumn": 95,
+                    "endOffset": 56140
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5477,
+                        "endColumn": 95,
+                        "endOffset": 5568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 668,
+                    "startColumn": 4,
+                    "startOffset": 56145,
+                    "endColumn": 89,
+                    "endOffset": 56230
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5387,
+                        "endColumn": 89,
+                        "endOffset": 5472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 669,
+                    "startColumn": 4,
+                    "startOffset": 56235,
+                    "endColumn": 77,
+                    "endOffset": 56308
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 17093,
+                        "endColumn": 77,
+                        "endOffset": 17166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 670,
+                    "startColumn": 4,
+                    "startOffset": 56313,
+                    "endColumn": 96,
+                    "endOffset": 56405
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 17840,
+                        "endColumn": 96,
+                        "endOffset": 17932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 671,
+                    "startColumn": 4,
+                    "startOffset": 56410,
+                    "endColumn": 155,
+                    "endOffset": 56561
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 12790,
+                        "endColumn": 155,
+                        "endOffset": 12941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 672,
+                    "startColumn": 4,
+                    "startOffset": 56566,
+                    "endColumn": 96,
+                    "endOffset": 56658
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 347,
+                        "startColumn": 4,
+                        "startOffset": 26381,
+                        "endColumn": 96,
+                        "endOffset": 26473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 673,
+                    "startColumn": 4,
+                    "startOffset": 56663,
+                    "endColumn": 140,
+                    "endOffset": 56799
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 340,
+                        "startColumn": 4,
+                        "startOffset": 25542,
+                        "endColumn": 140,
+                        "endOffset": 25678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 674,
+                    "startColumn": 4,
+                    "startOffset": 56804,
+                    "endColumn": 82,
+                    "endOffset": 56882
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 346,
+                        "startColumn": 4,
+                        "startOffset": 26298,
+                        "endColumn": 82,
+                        "endOffset": 26376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 675,
+                    "startColumn": 4,
+                    "startOffset": 56887,
+                    "endColumn": 79,
+                    "endOffset": 56962
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 16432,
+                        "endColumn": 79,
+                        "endOffset": 16507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 676,
+                    "startColumn": 4,
+                    "startOffset": 56967,
+                    "endColumn": 91,
+                    "endOffset": 57054
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 395,
+                        "startColumn": 4,
+                        "startOffset": 31444,
+                        "endColumn": 91,
+                        "endOffset": 31531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 677,
+                    "startColumn": 4,
+                    "startOffset": 57059,
+                    "endColumn": 75,
+                    "endOffset": 57130
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 16918,
+                        "endColumn": 75,
+                        "endOffset": 16989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 678,
+                    "startColumn": 4,
+                    "startOffset": 57135,
+                    "endColumn": 98,
+                    "endOffset": 57229
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 16994,
+                        "endColumn": 98,
+                        "endOffset": 17088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 679,
+                    "startColumn": 4,
+                    "startOffset": 57234,
+                    "endColumn": 89,
+                    "endOffset": 57319
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 348,
+                        "startColumn": 4,
+                        "startOffset": 26478,
+                        "endColumn": 89,
+                        "endOffset": 26563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 680,
+                    "startColumn": 4,
+                    "startOffset": 57324,
+                    "endColumn": 80,
+                    "endOffset": 57400
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 17346,
+                        "endColumn": 80,
+                        "endOffset": 17422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 681,
+                    "startColumn": 4,
+                    "startOffset": 57405,
+                    "endColumn": 92,
+                    "endOffset": 57493
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 393,
+                        "startColumn": 4,
+                        "startOffset": 31259,
+                        "endColumn": 92,
+                        "endOffset": 31347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 682,
+                    "startColumn": 4,
+                    "startOffset": 57498,
+                    "endColumn": 112,
+                    "endOffset": 57606
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 352,
+                        "startColumn": 4,
+                        "startOffset": 26913,
+                        "endColumn": 116,
+                        "endOffset": 27025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 683,
+                    "startColumn": 4,
+                    "startOffset": 57611,
+                    "endColumn": 105,
+                    "endOffset": 57712
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 17656,
+                        "endColumn": 105,
+                        "endOffset": 17757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 684,
+                    "startColumn": 4,
+                    "startOffset": 57717,
+                    "endColumn": 123,
+                    "endOffset": 57836
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 350,
+                        "startColumn": 4,
+                        "startOffset": 26660,
+                        "endColumn": 127,
+                        "endOffset": 26783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 685,
+                    "startColumn": 4,
+                    "startOffset": 57841,
+                    "endColumn": 121,
+                    "endOffset": 57958
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 390,
+                        "startColumn": 4,
+                        "startOffset": 30948,
+                        "endColumn": 121,
+                        "endOffset": 31065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 686,
+                    "startColumn": 4,
+                    "startOffset": 57963,
+                    "endColumn": 91,
+                    "endOffset": 58050
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 10592,
+                        "endColumn": 91,
+                        "endOffset": 10679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 687,
+                    "startColumn": 4,
+                    "startOffset": 58055,
+                    "endColumn": 103,
+                    "endOffset": 58154
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 11197,
+                        "endColumn": 103,
+                        "endOffset": 11296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 688,
+                    "startColumn": 4,
+                    "startOffset": 58159,
+                    "endColumn": 102,
+                    "endOffset": 58257
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 11094,
+                        "endColumn": 102,
+                        "endOffset": 11192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 689,
+                    "startColumn": 4,
+                    "startOffset": 58262,
+                    "endColumn": 133,
+                    "endOffset": 58391
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 12398,
+                        "endColumn": 133,
+                        "endOffset": 12527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 690,
+                    "startColumn": 4,
+                    "startOffset": 58396,
+                    "endColumn": 96,
+                    "endOffset": 58488
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 9862,
+                        "endColumn": 96,
+                        "endOffset": 9954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 691,
+                    "startColumn": 4,
+                    "startOffset": 58493,
+                    "endColumn": 112,
+                    "endOffset": 58601
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 362,
+                        "startColumn": 4,
+                        "startOffset": 27900,
+                        "endColumn": 116,
+                        "endOffset": 28012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 692,
+                    "startColumn": 4,
+                    "startOffset": 58606,
+                    "endColumn": 64,
+                    "endOffset": 58666
+                },
+                "from": {
+                    "file": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/values-tl/strings.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 15175,
+                        "endColumn": 64,
+                        "endOffset": 15235
+                    }
+                }
+            }
+        ]
+    }
+]

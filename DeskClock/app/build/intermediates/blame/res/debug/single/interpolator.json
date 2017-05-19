@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/interpolator/ic_clock_animation_interpolator_1.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/interpolator/ic_clock_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/interpolator/ic_stopwatch_button_translatex_interpolator.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/interpolator/ic_stopwatch_button_translatex_interpolator.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/interpolator/ic_clock_animation_interpolator_0.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/interpolator/ic_clock_animation_interpolator_0.xml"
+    }
+]

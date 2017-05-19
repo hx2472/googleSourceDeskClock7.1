@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw720dp-xxxhdpi/clock_analog_dial.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw720dp-xxxhdpi/clock_analog_dial.png"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw720dp-xxxhdpi/clock_analog_second.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw720dp-xxxhdpi/clock_analog_second.png"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw720dp-xxxhdpi/clock_analog_minute.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw720dp-xxxhdpi/clock_analog_minute.png"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-sw720dp-xxxhdpi/clock_analog_hour.png",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/src/main/res/drawable-sw720dp-xxxhdpi/clock_analog_hour.png"
+    }
+]

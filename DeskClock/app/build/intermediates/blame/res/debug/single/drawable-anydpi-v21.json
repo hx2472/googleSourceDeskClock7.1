@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_stopwatch.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_stopwatch.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_alarm.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_alarm.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_clock.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_clock.xml"
+    },
+    {
+        "merged": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_timer.xml",
+        "source": "/home/caody/hxdaxu/googleSourceDeskClock7.1/DeskClock/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_timer.xml"
+    }
+]
