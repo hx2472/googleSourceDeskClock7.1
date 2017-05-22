@@ -48,8 +48,9 @@ public class DeskClockFragment extends Fragment {
             mRightButton = deskClockActivity.getRightButton();
         }
     }
-
+    //appearance 外观，出现
     public void setFabAppearance() {
+        //derived 导出的，衍生的
         // Do nothing here , only in derived classes
     }
 

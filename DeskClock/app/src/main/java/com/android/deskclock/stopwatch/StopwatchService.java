@@ -31,6 +31,7 @@ import com.android.deskclock.events.Events;
  * that is not displayed) the notification manager implicitly closes the notification shade which
  * clashes with the use case of starting/pausing/lapping/resetting the stopwatch without
  * disturbing the notification shade.
+ *
  */
 public final class StopwatchService extends Service {
 

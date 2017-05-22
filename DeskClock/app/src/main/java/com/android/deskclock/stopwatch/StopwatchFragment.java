@@ -61,6 +61,7 @@ public final class StopwatchFragment extends DeskClockFragment {
     /** Scheduled to update the stopwatch time and current lap time while stopwatch is running. */
     private final Runnable mTimeUpdateRunnable = new TimeUpdateRunnable();
 
+    //用于确定何时进行回调，以降低更新速率。
     /** Used to determine when talk back is on in order to lower the time update rate. */
     private AccessibilityManager mAccessibilityManager;
 
@@ -119,7 +120,7 @@ public final class StopwatchFragment extends DeskClockFragment {
     @Override
     public void onResume() {
         super.onResume();
-
+        // 谨慎的假设adapter里的数据在fragment paused后变化了。
         // Conservatively assume the data in the adapter has changed while the fragment was paused.
         mLapsAdapter.notifyDataSetChanged();
 
@@ -495,6 +496,7 @@ public final class StopwatchFragment extends DeskClockFragment {
     }
 
     /**
+     * //periodically周期性的
      * This runnable periodically updates times throughout the UI. It stops these updates when the
      * stopwatch is no longer running.
      */

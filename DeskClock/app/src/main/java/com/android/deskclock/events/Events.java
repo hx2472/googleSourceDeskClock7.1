@@ -23,6 +23,9 @@ import com.android.deskclock.R;
 import java.util.ArrayList;
 import java.util.Collection;
 
+/**
+ * 这里Events只用来输出log了。这个Events的结构值得学习。
+ */
 public final class Events {
 
     private static final Collection<EventTracker> sEventTrackers = new ArrayList<>();
