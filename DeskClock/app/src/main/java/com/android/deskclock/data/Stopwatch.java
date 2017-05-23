@@ -38,6 +38,7 @@ public final class Stopwatch {
     /** Elapsed time in ms the stopwatch was last started; {@link Long#MIN_VALUE} if not running. */
     private final long mLastStartTime;
 
+    // accumulate 累计
     /** Elapsed time in ms this stopwatch has accumulated while running. */
     private final long mAccumulatedTime;
 
